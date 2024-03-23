@@ -21,7 +21,7 @@
   "option_mac_installer_background_png":"${base_options_dir}/mac/splash/installer_background.png",
   "option_mac_interpolate_pixels":false,
   "option_mac_menu_dock":false,
-  "option_mac_min_version":null,
+  "option_mac_min_version":"10.10",
   "option_mac_output_dir":"~/GameMakerStudio2/Mac",
   "option_mac_resize_window":false,
   "option_mac_scale":0,
